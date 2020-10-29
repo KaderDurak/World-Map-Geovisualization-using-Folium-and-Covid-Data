@@ -10,4 +10,3 @@
 * Generate Heat Map wit Circular Markers
 
 
-I did my best and thank you Vinita Silaparasetty for that project, so handy! ... 
